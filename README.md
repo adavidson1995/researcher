@@ -4,9 +4,7 @@ This repository contains the source code for my personal website, [www.alexdavid
 
 The website is built using **Researcher**, a clean, single column, monospace resume template for Jekyll, originally developed by [Ankit Sultana](https://github.com/ankitsultana).
 
-### Website
-
-**Live website:** [www.alexdavidson.me](https://www.alexdavidson.me)
+### My Live Personal Website(https://www.alexdavidson.me)
 
 ### [Demo Website](http://ankitsultana.com/researcher)
 
